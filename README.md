@@ -10,12 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krmdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krmdl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=krmdl&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kerem__dal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Kerem2894) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kerem__dal) 
 
